@@ -4,7 +4,7 @@ I’ve always believed the NBA is one of the richest sources of data in sports; 
 
 This is an ongoing project I worked on with my good friend Conner Khudaverdyan, which will evolve as I add new features and build out deeper analytical capabilities. 
 
-** Current Focus **
+# ** Current Focus **
 
 Right now, I’m building scripts to:
 
@@ -17,7 +17,7 @@ Right now, I’m building scripts to:
 - Create visual dashboards using tools like Tableau
 
 
-** Planned Features **
+# ** Planned Features **
 
 As the project develops, I will be adding:
 
@@ -31,7 +31,7 @@ As the project develops, I will be adding:
 
 My long-term goal is to develop a repeatable analytics pipeline that updates in real-time as the season progresses.
 
-** Tools and Technologies **
+# ** Tools and Technologies **
 
 - Python: data collection, cleaning, and automation
 
