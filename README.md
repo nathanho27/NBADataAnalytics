@@ -1,4 +1,4 @@
-This repository is where I’m building a Python, SQL, and Tableau-based toolkit for collecting, analyzing, and visualizing NBA data. The goal of this project is to automate the full workflow—from pulling live and historical stats using the nba_api library, to cleaning and storing the data, to building insights and predictive models over time.
+This repository is where I’m building a Python, SQL, and Tableau-based toolkit for collecting, analyzing, and visualizing NBA data. The goal of this project is to automate the full workflow, from pulling live and historical stats using the nba_api library, to cleaning and storing the data, to building insights and predictive models over time.
 
 This is an ongoing project I worked on with my good friend Conner Khudaverdyan, which will evolve as I add new features and build out deeper analytical capabilities. 
 
@@ -29,13 +29,18 @@ As the project develops, I will be adding:
 
 My long-term goal is to develop a repeatable analytics pipeline that updates in real-time as the season progresses.
 
-Tools and Technologies:
+Tools and Technologies
 
-- Python for collecting and cleaning data
-- SQL for the database and storing of data
-- Tableau for data visualizations
+- Python: data collection, cleaning, and automation
 
-To follow along the link to the Instagram is https://www.instagram.com/nba.stats.analytics/?hl=en
+- SQL: structured data storage and querying
+
+- Tableau: visual analytics and dashboard creation
+
+Follow the Project
+
+I will be sharing insights, visualizations, and analytics breakdowns from this project on Instagram:
+https://www.instagram.com/nba.stats.analytics/?hl=en
 
 
 
