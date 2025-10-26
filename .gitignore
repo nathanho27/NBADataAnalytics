@@ -1,0 +1,14 @@
+.DS_Store
+*.pyc
+.venv/
+__pycache__/
+data/
+.ipynb_checkpoints/
+
+.DS_Store
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/
+*.parquet
+hd_logos/*.psd
