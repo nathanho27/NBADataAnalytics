@@ -1,4 +1,4 @@
-NBA Data Analytics
+# **NBA Data Analytics**
 
 I’ve always believed the NBA is one of the richest sources of data in sports; every game produces a stream of information that, if captured and interpreted well, can reveal trends that aren’t obvious from traditional box scores. This project is my attempt to build a real analytics pipeline using Python, SQL, and Tableau to turn raw NBA data into meaningful insights and predictive tools.
 
