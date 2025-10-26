@@ -39,7 +39,7 @@ My long-term goal is to develop a repeatable analytics pipeline that updates in 
 
 - Tableau: visual analytics and dashboard creation
 
-** Follow the Project **
+# ** Follow the Project **
 
 I will be sharing insights, visualizations, and analytics breakdowns from this project on Instagram:
 https://www.instagram.com/nba.stats.analytics/?hl=en
