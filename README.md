@@ -4,6 +4,8 @@ I’ve always believed the NBA is one of the richest sources of data in sports; 
 
 This is an ongoing project I worked on with my good friend Conner Khudaverdyan, which will evolve as I add new features and build out deeper analytical capabilities. 
 
+At this current moment, I am waiting for more NBA data to come out before I start building visualizations.
+
 #  Current Focus 
 
 Right now, I’m building scripts to:
